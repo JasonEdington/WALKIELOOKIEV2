@@ -1,1 +1,2 @@
-# WALKIELOOKIEV2
+# Walkie-Lookie
+Walkie-Talkie based image sender
